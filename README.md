@@ -1,2 +1,2 @@
-# cytrixandtrikz.github.com
+# trickz.github.com
 THIS IS A WEBSITE IM WORKING ON FOR LEARINING CODE DEVELOPMENT
